@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"upo.graph.impl","l":"AdjMatrixDir"},{"p":"upo.graph.impl","l":"AdjMatrixDirWeight"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"upo.graph.impl","l":"DatiStudente"}];updateSearchResults();
